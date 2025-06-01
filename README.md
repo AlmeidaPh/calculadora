@@ -1,4 +1,4 @@
-# Calculadora Simples 🧮
+# Calculadora Simples 
 
 Este é um projeto pessoal em desenvolvimento: uma calculadora simples feita com HTML, CSS e JavaScript.
 
@@ -30,7 +30,7 @@ Atualmente, os arquivos `index.html`, `style.css` e `script.js` foram criados, e
 - CSS3
 - JavaScript
 
-## 🙋‍♂️ Autor
+##  Autor
 
 Projeto criado por Phillipe G. S. Almeida.  
 Este é um projeto pessoal com fins de aprendizado e prática.
